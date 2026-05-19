@@ -9,16 +9,10 @@ about:
     - text: GitHub
       href: https://github.com/caitlinhamrock
     - text: Email
-      href: mailto: Caitlinhamrock@gmail.com
+      href: mailto:Caitlinhamrock@gmail.com
   
 ---
 
 I Love Joe
 
-```{r}
-1 + 1
-```
 
-
-
-# add headshot and CV

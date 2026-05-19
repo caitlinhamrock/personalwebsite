@@ -1,6 +1,6 @@
 ---
 title: "Caitlin Hamrock"
-image: media/plane.JPEG
+image: .media/plane.JPEG
 toc: false
 about: 
   template: jolla

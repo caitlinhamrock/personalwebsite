@@ -1,8 +1,11 @@
 ---
 title: "Caitlin Hamrock"
+image: media/plane.JPEG
 toc: false
 about: 
   template: jolla
+  image-shape: round
+  image-width: 17em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/caitlin-hamrock-13555232/

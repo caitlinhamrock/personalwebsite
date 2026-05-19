@@ -1,10 +1,10 @@
 ---
 title: "Caitlin Hamrock"
-image: .media/plane.JPEG
+image: ./media/plane.JPG
 toc: false
 about: 
   template: jolla
-  image-shape: rectangle
+  image-shape: round
   image-width: 17em
   links:
     - text: LinkedIn
